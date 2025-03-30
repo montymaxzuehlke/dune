@@ -1,0 +1,199 @@
+norm = Linf, eps = 8, fname = trained_model_baseline/CIFAR10_Linf_Trades_10_400Epoch_BN
+Logging to file:  trained_model_baseline/CIFAR10_Linf_Trades_10_400Epoch_BN/log-aa.log
+
+
+
+Files already downloaded and verified
+Files already downloaded and verified
+
+Not using validation set and aux data
+
+evaluation data size:10000
+Using preact-resnet18-swish with its original normalization layer
+Using WA model.
+setting parameters for standard version
+Linf AA evaluation on:
+trained_model_baseline/CIFAR10_Linf_Trades_10_400Epoch_BN/latest_checkpoint.pt
+
+epoch 399 with val_best 0
+eps:0.0314 batch size:2000
+
+using standard version including apgd-ce, apgd-t, fab-t, square.
+initial accuracy: 85.92%
+apgd-ce - 1/5 - 647 out of 2000 successfully perturbed
+apgd-ce - 2/5 - 642 out of 2000 successfully perturbed
+apgd-ce - 3/5 - 662 out of 2000 successfully perturbed
+apgd-ce - 4/5 - 664 out of 2000 successfully perturbed
+apgd-ce - 5/5 - 190 out of 592 successfully perturbed
+robust accuracy after APGD-CE: 57.87% (total time 84.6 s)
+apgd-t - 1/3 - 126 out of 2000 successfully perturbed
+apgd-t - 2/3 - 153 out of 2000 successfully perturbed
+apgd-t - 3/3 - 124 out of 1787 successfully perturbed
+robust accuracy after APGD-T: 53.84% (total time 566.7 s)
+fab-t - 1/3 - 0 out of 2000 successfully perturbed
+fab-t - 2/3 - 0 out of 2000 successfully perturbed
+fab-t - 3/3 - 0 out of 1384 successfully perturbed
+robust accuracy after FAB-T: 53.84% (total time 1317.1 s)
+square - 1/3 - 0 out of 2000 successfully perturbed
+square - 2/3 - 0 out of 2000 successfully perturbed
+square - 3/3 - 0 out of 1384 successfully perturbed
+robust accuracy after SQUARE: 53.84% (total time 2317.8 s)
+max Linf perturbation: 0.03137, nan in tensor: 0, max: 1.00000, min: 0.00000
+robust accuracy: 53.84%
+Script Completed.
+norm = Linf, eps = 8, fname = trained_model_baseline/CIFAR10_Linf_Trades_11_400Epoch_BN
+Logging to file:  trained_model_baseline/CIFAR10_Linf_Trades_11_400Epoch_BN/log-aa.log
+
+
+
+Files already downloaded and verified
+Files already downloaded and verified
+
+Not using validation set and aux data
+
+evaluation data size:10000
+Using preact-resnet18-swish with its original normalization layer
+Using WA model.
+setting parameters for standard version
+Linf AA evaluation on:
+trained_model_baseline/CIFAR10_Linf_Trades_11_400Epoch_BN/latest_checkpoint.pt
+
+epoch 399 with val_best 0
+eps:0.0314 batch size:2000
+
+using standard version including apgd-ce, apgd-t, fab-t, square.
+initial accuracy: 85.83%
+apgd-ce - 1/5 - 636 out of 2000 successfully perturbed
+apgd-ce - 2/5 - 657 out of 2000 successfully perturbed
+apgd-ce - 3/5 - 647 out of 2000 successfully perturbed
+apgd-ce - 4/5 - 663 out of 2000 successfully perturbed
+apgd-ce - 5/5 - 187 out of 583 successfully perturbed
+robust accuracy after APGD-CE: 57.93% (total time 84.4 s)
+apgd-t - 1/3 - 147 out of 2000 successfully perturbed
+apgd-t - 2/3 - 149 out of 2000 successfully perturbed
+apgd-t - 3/3 - 131 out of 1793 successfully perturbed
+robust accuracy after APGD-T: 53.66% (total time 565.5 s)
+fab-t - 1/3 - 0 out of 2000 successfully perturbed
+fab-t - 2/3 - 0 out of 2000 successfully perturbed
+fab-t - 3/3 - 0 out of 1366 successfully perturbed
+robust accuracy after FAB-T: 53.66% (total time 1313.6 s)
+square - 1/3 - 0 out of 2000 successfully perturbed
+square - 2/3 - 0 out of 2000 successfully perturbed
+square - 3/3 - 0 out of 1366 successfully perturbed
+robust accuracy after SQUARE: 53.66% (total time 2312.2 s)
+max Linf perturbation: 0.03137, nan in tensor: 0, max: 1.00000, min: 0.00000
+robust accuracy: 53.66%
+Script Completed.
+norm = Linf, eps = 8, fname = trained_model_baseline/CIFAR10_Linf_Trades_12_400Epoch_BN
+Logging to file:  trained_model_baseline/CIFAR10_Linf_Trades_12_400Epoch_BN/log-aa.log
+
+
+
+Files already downloaded and verified
+Files already downloaded and verified
+
+Not using validation set and aux data
+
+evaluation data size:10000
+Using preact-resnet18-swish with its original normalization layer
+Using WA model.
+setting parameters for standard version
+Linf AA evaluation on:
+trained_model_baseline/CIFAR10_Linf_Trades_12_400Epoch_BN/latest_checkpoint.pt
+
+epoch 399 with val_best 0
+eps:0.0314 batch size:2000
+
+using standard version including apgd-ce, apgd-t, fab-t, square.
+initial accuracy: 86.08%
+apgd-ce - 1/5 - 662 out of 2000 successfully perturbed
+apgd-ce - 2/5 - 654 out of 2000 successfully perturbed
+apgd-ce - 3/5 - 665 out of 2000 successfully perturbed
+apgd-ce - 4/5 - 676 out of 2000 successfully perturbed
+apgd-ce - 5/5 - 190 out of 608 successfully perturbed
+robust accuracy after APGD-CE: 57.61% (total time 84.6 s)
+apgd-t - 1/3 - 116 out of 2000 successfully perturbed
+apgd-t - 2/3 - 135 out of 2000 successfully perturbed
+apgd-t - 3/3 - 109 out of 1761 successfully perturbed
+robust accuracy after APGD-T: 54.01% (total time 564.4 s)
+fab-t - 1/3 - 0 out of 2000 successfully perturbed
+fab-t - 2/3 - 0 out of 2000 successfully perturbed
+fab-t - 3/3 - 0 out of 1401 successfully perturbed
+robust accuracy after FAB-T: 54.01% (total time 1316.5 s)
+square - 1/3 - 0 out of 2000 successfully perturbed
+square - 2/3 - 0 out of 2000 successfully perturbed
+square - 3/3 - 0 out of 1401 successfully perturbed
+robust accuracy after SQUARE: 54.01% (total time 2319.9 s)
+max Linf perturbation: 0.03137, nan in tensor: 0, max: 1.00000, min: 0.00000
+robust accuracy: 54.01%
+Script Completed.
+norm = Linf, eps = 8, fname = trained_model_baseline/CIFAR10_Linf_Trades_13_400Epoch_BN
+Logging to file:  trained_model_baseline/CIFAR10_Linf_Trades_13_400Epoch_BN/log-aa.log
+
+
+
+Files already downloaded and verified
+Files already downloaded and verified
+
+Not using validation set and aux data
+
+evaluation data size:10000
+Using preact-resnet18-swish with its original normalization layer
+Using WA model.
+setting parameters for standard version
+Linf AA evaluation on:
+trained_model_baseline/CIFAR10_Linf_Trades_13_400Epoch_BN/latest_checkpoint.pt
+
+epoch 399 with val_best 0
+eps:0.0314 batch size:2000
+
+using standard version including apgd-ce, apgd-t, fab-t, square.
+initial accuracy: 39.96%
+apgd-ce - 1/2 - 1014 out of 2000 successfully perturbed
+apgd-ce - 2/2 - 1004 out of 1996 successfully perturbed
+robust accuracy after APGD-CE: 19.78% (total time 41.9 s)
+apgd-t - 1/1 - 1051 out of 1978 successfully perturbed
+robust accuracy after APGD-T: 9.27% (total time 155.3 s)
+fab-t - 1/1 - 0 out of 927 successfully perturbed
+robust accuracy after FAB-T: 9.27% (total time 309.6 s)
+square - 1/1 - 468 out of 927 successfully perturbed
+robust accuracy after SQUARE: 4.59% (total time 688.5 s)
+Warning: Square Attack has decreased the robust accuracy of 4.68%. This might indicate that the robustness evaluation using AutoAttack is unreliable. Consider running Square Attack with more iterations and restarts or an adaptive attack. See flags_doc.md for details.
+max Linf perturbation: 0.03137, nan in tensor: 0, max: 1.00000, min: 0.00000
+robust accuracy: 4.59%
+Script Completed.
+norm = Linf, eps = 8, fname = trained_model_baseline/CIFAR10_Linf_Trades_14_400Epoch_BN
+Logging to file:  trained_model_baseline/CIFAR10_Linf_Trades_14_400Epoch_BN/log-aa.log
+
+
+
+Files already downloaded and verified
+Files already downloaded and verified
+
+Not using validation set and aux data
+
+evaluation data size:10000
+Using preact-resnet18-swish with its original normalization layer
+Using WA model.
+setting parameters for standard version
+Linf AA evaluation on:
+trained_model_baseline/CIFAR10_Linf_Trades_14_400Epoch_BN/latest_checkpoint.pt
+
+epoch 399 with val_best 0
+eps:0.0314 batch size:2000
+
+using standard version including apgd-ce, apgd-t, fab-t, square.
+initial accuracy: 39.88%
+apgd-ce - 1/2 - 1149 out of 2000 successfully perturbed
+apgd-ce - 2/2 - 1140 out of 1988 successfully perturbed
+robust accuracy after APGD-CE: 16.99% (total time 40.9 s)
+apgd-t - 1/1 - 910 out of 1699 successfully perturbed
+robust accuracy after APGD-T: 7.89% (total time 148.7 s)
+fab-t - 1/1 - 0 out of 789 successfully perturbed
+robust accuracy after FAB-T: 7.89% (total time 283.9 s)
+square - 1/1 - 361 out of 789 successfully perturbed
+robust accuracy after SQUARE: 4.28% (total time 597.4 s)
+Warning: Square Attack has decreased the robust accuracy of 3.61%. This might indicate that the robustness evaluation using AutoAttack is unreliable. Consider running Square Attack with more iterations and restarts or an adaptive attack. See flags_doc.md for details.
+max Linf perturbation: 0.03137, nan in tensor: 0, max: 1.00000, min: 0.00000
+robust accuracy: 4.28%
+Script Completed.
