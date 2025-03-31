@@ -1,0 +1,230 @@
+norm = L2, eps = 0.50196078, fname = trained_model_baseline/CIFAR10_L2_Trades_10_120Epoch_BN
+Logging to file:  trained_model_baseline/CIFAR10_L2_Trades_10_120Epoch_BN/log-aa.log
+
+
+
+Files already downloaded and verified
+Files already downloaded and verified
+
+Not using validation set and aux data
+
+evaluation data size:10000
+Using preact-resnet18-swish with its original normalization layer
+Using WA model.
+setting parameters for standard version
+L2 AA evaluation on:
+trained_model_baseline/CIFAR10_L2_Trades_10_120Epoch_BN/latest_checkpoint.pt
+
+epoch 119 with val_best 0
+eps:0.5020 batch size:2000
+
+using standard version including apgd-ce, apgd-t, fab-t, square.
+initial accuracy: 91.85%
+apgd-ce - 1/5 - 316 out of 2000 successfully perturbed
+apgd-ce - 2/5 - 308 out of 2000 successfully perturbed
+apgd-ce - 3/5 - 326 out of 2000 successfully perturbed
+apgd-ce - 4/5 - 304 out of 2000 successfully perturbed
+apgd-ce - 5/5 - 166 out of 1185 successfully perturbed
+robust accuracy after APGD-CE: 77.65% (total time 83.8 s)
+apgd-t - 1/4 - 31 out of 2000 successfully perturbed
+apgd-t - 2/4 - 30 out of 2000 successfully perturbed
+apgd-t - 3/4 - 32 out of 2000 successfully perturbed
+apgd-t - 4/4 - 26 out of 1765 successfully perturbed
+robust accuracy after APGD-T: 76.46% (total time 720.5 s)
+fab-t - 1/4 - 0 out of 2000 successfully perturbed
+fab-t - 2/4 - 0 out of 2000 successfully perturbed
+fab-t - 3/4 - 0 out of 2000 successfully perturbed
+fab-t - 4/4 - 0 out of 1646 successfully perturbed
+robust accuracy after FAB-T: 76.46% (total time 1881.2 s)
+square - 1/4 - 0 out of 2000 successfully perturbed
+square - 2/4 - 0 out of 2000 successfully perturbed
+square - 3/4 - 0 out of 2000 successfully perturbed
+square - 4/4 - 0 out of 1646 successfully perturbed
+robust accuracy after SQUARE: 76.46% (total time 3904.6 s)
+max L2 perturbation: 0.50196, nan in tensor: 0, max: 1.00000, min: 0.00000
+robust accuracy: 76.46%
+Script Completed.
+norm = L2, eps = 0.50196078, fname = trained_model_baseline/CIFAR10_L2_Trades_11_120Epoch_BN
+Logging to file:  trained_model_baseline/CIFAR10_L2_Trades_11_120Epoch_BN/log-aa.log
+
+
+
+Files already downloaded and verified
+Files already downloaded and verified
+
+Not using validation set and aux data
+
+evaluation data size:10000
+Using preact-resnet18-swish with its original normalization layer
+Using WA model.
+setting parameters for standard version
+L2 AA evaluation on:
+trained_model_baseline/CIFAR10_L2_Trades_11_120Epoch_BN/latest_checkpoint.pt
+
+epoch 119 with val_best 0
+eps:0.5020 batch size:2000
+
+using standard version including apgd-ce, apgd-t, fab-t, square.
+initial accuracy: 91.86%
+apgd-ce - 1/5 - 312 out of 2000 successfully perturbed
+apgd-ce - 2/5 - 298 out of 2000 successfully perturbed
+apgd-ce - 3/5 - 299 out of 2000 successfully perturbed
+apgd-ce - 4/5 - 292 out of 2000 successfully perturbed
+apgd-ce - 5/5 - 171 out of 1186 successfully perturbed
+robust accuracy after APGD-CE: 78.14% (total time 84.1 s)
+apgd-t - 1/4 - 23 out of 2000 successfully perturbed
+apgd-t - 2/4 - 33 out of 2000 successfully perturbed
+apgd-t - 3/4 - 41 out of 2000 successfully perturbed
+apgd-t - 4/4 - 25 out of 1814 successfully perturbed
+robust accuracy after APGD-T: 76.92% (total time 726.5 s)
+fab-t - 1/4 - 0 out of 2000 successfully perturbed
+fab-t - 2/4 - 0 out of 2000 successfully perturbed
+fab-t - 3/4 - 0 out of 2000 successfully perturbed
+fab-t - 4/4 - 0 out of 1692 successfully perturbed
+robust accuracy after FAB-T: 76.92% (total time 1891.9 s)
+square - 1/4 - 0 out of 2000 successfully perturbed
+square - 2/4 - 0 out of 2000 successfully perturbed
+square - 3/4 - 0 out of 2000 successfully perturbed
+square - 4/4 - 0 out of 1692 successfully perturbed
+robust accuracy after SQUARE: 76.92% (total time 3926.8 s)
+max L2 perturbation: 0.50196, nan in tensor: 0, max: 1.00000, min: 0.00000
+robust accuracy: 76.92%
+Script Completed.
+norm = L2, eps = 0.50196078, fname = trained_model_baseline/CIFAR10_L2_Trades_12_120Epoch_BN
+Logging to file:  trained_model_baseline/CIFAR10_L2_Trades_12_120Epoch_BN/log-aa.log
+
+
+
+Files already downloaded and verified
+Files already downloaded and verified
+
+Not using validation set and aux data
+
+evaluation data size:10000
+Using preact-resnet18-swish with its original normalization layer
+Using WA model.
+setting parameters for standard version
+L2 AA evaluation on:
+trained_model_baseline/CIFAR10_L2_Trades_12_120Epoch_BN/latest_checkpoint.pt
+
+epoch 119 with val_best 0
+eps:0.5020 batch size:2000
+
+using standard version including apgd-ce, apgd-t, fab-t, square.
+initial accuracy: 91.88%
+apgd-ce - 1/5 - 306 out of 2000 successfully perturbed
+apgd-ce - 2/5 - 308 out of 2000 successfully perturbed
+apgd-ce - 3/5 - 327 out of 2000 successfully perturbed
+apgd-ce - 4/5 - 305 out of 2000 successfully perturbed
+apgd-ce - 5/5 - 168 out of 1188 successfully perturbed
+robust accuracy after APGD-CE: 77.74% (total time 83.7 s)
+apgd-t - 1/4 - 27 out of 2000 successfully perturbed
+apgd-t - 2/4 - 37 out of 2000 successfully perturbed
+apgd-t - 3/4 - 23 out of 2000 successfully perturbed
+apgd-t - 4/4 - 29 out of 1774 successfully perturbed
+robust accuracy after APGD-T: 76.58% (total time 720.7 s)
+fab-t - 1/4 - 0 out of 2000 successfully perturbed
+fab-t - 2/4 - 0 out of 2000 successfully perturbed
+fab-t - 3/4 - 0 out of 2000 successfully perturbed
+fab-t - 4/4 - 0 out of 1658 successfully perturbed
+robust accuracy after FAB-T: 76.58% (total time 1884.4 s)
+square - 1/4 - 0 out of 2000 successfully perturbed
+square - 2/4 - 0 out of 2000 successfully perturbed
+square - 3/4 - 0 out of 2000 successfully perturbed
+square - 4/4 - 0 out of 1658 successfully perturbed
+robust accuracy after SQUARE: 76.58% (total time 3938.6 s)
+max L2 perturbation: 0.50196, nan in tensor: 0, max: 1.00000, min: 0.00000
+robust accuracy: 76.58%
+Script Completed.
+norm = L2, eps = 0.50196078, fname = trained_model_baseline/CIFAR10_L2_Trades_13_120Epoch_BN
+Logging to file:  trained_model_baseline/CIFAR10_L2_Trades_13_120Epoch_BN/log-aa.log
+
+
+
+Files already downloaded and verified
+Files already downloaded and verified
+
+Not using validation set and aux data
+
+evaluation data size:10000
+Using preact-resnet18-swish with its original normalization layer
+Using WA model.
+setting parameters for standard version
+L2 AA evaluation on:
+trained_model_baseline/CIFAR10_L2_Trades_13_120Epoch_BN/latest_checkpoint.pt
+
+epoch 119 with val_best 0
+eps:0.5020 batch size:2000
+
+using standard version including apgd-ce, apgd-t, fab-t, square.
+initial accuracy: 92.02%
+apgd-ce - 1/5 - 309 out of 2000 successfully perturbed
+apgd-ce - 2/5 - 306 out of 2000 successfully perturbed
+apgd-ce - 3/5 - 322 out of 2000 successfully perturbed
+apgd-ce - 4/5 - 308 out of 2000 successfully perturbed
+apgd-ce - 5/5 - 180 out of 1202 successfully perturbed
+robust accuracy after APGD-CE: 77.77% (total time 83.6 s)
+apgd-t - 1/4 - 33 out of 2000 successfully perturbed
+apgd-t - 2/4 - 39 out of 2000 successfully perturbed
+apgd-t - 3/4 - 25 out of 2000 successfully perturbed
+apgd-t - 4/4 - 29 out of 1777 successfully perturbed
+robust accuracy after APGD-T: 76.51% (total time 720.2 s)
+fab-t - 1/4 - 0 out of 2000 successfully perturbed
+fab-t - 2/4 - 0 out of 2000 successfully perturbed
+fab-t - 3/4 - 0 out of 2000 successfully perturbed
+fab-t - 4/4 - 0 out of 1651 successfully perturbed
+robust accuracy after FAB-T: 76.51% (total time 1881.8 s)
+square - 1/4 - 0 out of 2000 successfully perturbed
+square - 2/4 - 0 out of 2000 successfully perturbed
+square - 3/4 - 0 out of 2000 successfully perturbed
+square - 4/4 - 0 out of 1651 successfully perturbed
+robust accuracy after SQUARE: 76.51% (total time 3910.6 s)
+max L2 perturbation: 0.50196, nan in tensor: 0, max: 1.00000, min: 0.00000
+robust accuracy: 76.51%
+Script Completed.
+norm = L2, eps = 0.50196078, fname = trained_model_baseline/CIFAR10_L2_Trades_14_120Epoch_BN
+Logging to file:  trained_model_baseline/CIFAR10_L2_Trades_14_120Epoch_BN/log-aa.log
+
+
+
+Files already downloaded and verified
+Files already downloaded and verified
+
+Not using validation set and aux data
+
+evaluation data size:10000
+Using preact-resnet18-swish with its original normalization layer
+Using WA model.
+setting parameters for standard version
+L2 AA evaluation on:
+trained_model_baseline/CIFAR10_L2_Trades_14_120Epoch_BN/latest_checkpoint.pt
+
+epoch 119 with val_best 0
+eps:0.5020 batch size:2000
+
+using standard version including apgd-ce, apgd-t, fab-t, square.
+initial accuracy: 91.84%
+apgd-ce - 1/5 - 316 out of 2000 successfully perturbed
+apgd-ce - 2/5 - 300 out of 2000 successfully perturbed
+apgd-ce - 3/5 - 314 out of 2000 successfully perturbed
+apgd-ce - 4/5 - 307 out of 2000 successfully perturbed
+apgd-ce - 5/5 - 175 out of 1184 successfully perturbed
+robust accuracy after APGD-CE: 77.72% (total time 84.3 s)
+apgd-t - 1/4 - 21 out of 2000 successfully perturbed
+apgd-t - 2/4 - 27 out of 2000 successfully perturbed
+apgd-t - 3/4 - 33 out of 2000 successfully perturbed
+apgd-t - 4/4 - 25 out of 1772 successfully perturbed
+robust accuracy after APGD-T: 76.66% (total time 724.9 s)
+fab-t - 1/4 - 0 out of 2000 successfully perturbed
+fab-t - 2/4 - 0 out of 2000 successfully perturbed
+fab-t - 3/4 - 0 out of 2000 successfully perturbed
+fab-t - 4/4 - 0 out of 1666 successfully perturbed
+robust accuracy after FAB-T: 76.66% (total time 1887.6 s)
+square - 1/4 - 0 out of 2000 successfully perturbed
+square - 2/4 - 0 out of 2000 successfully perturbed
+square - 3/4 - 0 out of 2000 successfully perturbed
+square - 4/4 - 0 out of 1666 successfully perturbed
+robust accuracy after SQUARE: 76.66% (total time 3923.1 s)
+max L2 perturbation: 0.50196, nan in tensor: 0, max: 1.00000, min: 0.00000
+robust accuracy: 76.66%
+Script Completed.
